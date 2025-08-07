@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Linux, Cli, Git, Docker, AWS**
+- 💬 Ask me about **Linux, CLI, Git, Docker, AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
