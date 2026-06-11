@@ -7,6 +7,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=avinashingle45&label=Profile%20Views&color=0e75b6&style=flat-square)]()
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/avinash-ingle-643038256)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/avinashingle45)
+[![Snapchat](https://img.shields.io/badge/-Snapchat-FFFC00?style=flat-square&logo=snapchat&logoColor=black)](https://snapchat.com/add/avinashingle45)
 
 
 </div>
